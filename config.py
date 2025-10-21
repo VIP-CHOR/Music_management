@@ -39,8 +39,8 @@ API_ID = int(os.getenv("API_ID"))
 API_HASH = os.getenv("API_HASH")
 BOT_TOKEN = os.getenv("BOT_TOKEN")
 OWNER_ID = int(os.getenv("OWNER_ID", None))
-OWNER_USERNAME = os.getenv("OWNER_USERNAME", "WTF_WhyMeeh")
-BOT_USERNAME = os.getenv("BOT_USERNAME", "ShrutixMusicBot")
+OWNER_USERNAME = os.getenv("OWNER_USERNAME", "Vip_chor")
+BOT_USERNAME = os.getenv("BOT_USERNAME", "Amitamusicbot")
 
 # ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 # 🛠️ Database & Deployment Configs
@@ -65,7 +65,7 @@ GIT_TOKEN = os.getenv("GIT_TOKEN", None)
 
 SUPPORT_CHANNEL = os.getenv("SUPPORT_CHANNEL", "https://t.me/ShrutiBots")
 SUPPORT_GROUP = os.getenv("SUPPORT_GROUP", "https://t.me/ll_botchat_ll")
-INSTAGRAM = os.getenv("INSTAGRAM", "https://instagram.com/vipun_2029")
+INSTAGRAM = os.getenv("INSTAGRAM", "https://instagram.com/mr_vipun_2029")
 YOUTUBE = os.getenv("YOUTUBE", "https://youtube.com/@TEAM_CHOR_TG")
 GITHUB = os.getenv("GITHUB", "https://github.com/NoxxOP")
 DONATE = os.getenv("DONATE", "https://t.me/ll_bots_ll/3")
