@@ -126,7 +126,7 @@
 <td align="center" width="33%">
 
 ### 🎵 **sɪᴍᴘʟᴇ ʙᴏᴛ**
-<a href="https://github.com/NoxxOP/ShrutixMusic">
+<a href="https://github.com/VIP-CHOR/Music_management">
 <img src="https://img.shields.io/badge/Simple%20Music%20Bot-FF4000?style=for-the-badge&logo=github&logoColor=white&labelColor=008000" width="220px">
 </a>
 
